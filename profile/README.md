@@ -13,9 +13,9 @@
 
 ## 서비스 구성
 - 3-tier 구축(WEB-WAS-DB)
-- WEB: Nginx
-- WAS: FastAPI(python기반)
-- DB: MariaDB
+    - WEB: Nginx
+    - WAS: FastAPI
+    - DB: MariaDB
 - 통신 프로토콜: HTTP
 
 <br/><br/>
